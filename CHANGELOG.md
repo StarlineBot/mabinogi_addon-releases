@@ -1,10 +1,9 @@
 ### v0.4.65 (2026-10-14)
-- docs(qa): verify tracker fixes and adopt risk-based beta release checks
-- 문제 수정 후 바로 푸시하고 후속 QA 뒤 릴리즈하도록 지침 명확화
-- 디버프 재검출 깜빡임과 투아림 동일 주기 반복 알림 수정
-- docs(qa): reproduce debuff recovery flicker and record ROI constraints
-- docs: share cooking and autofind planning specifications
-- docs(qa): reproduce Tuarim rearm from stale stable readings
+
+**디버프 표시와 투아림 알림의 일시적인 판독 흔들림을 보완했습니다.**
+
+- 적용된 디버프를 잠깐 놓쳤다가 다시 찾을 때 아이콘이 순간 재표시되던 문제를 고쳤습니다.
+- 투아림에서 이전 판독값이 남아 같은 주기의 알림이 반복될 수 있던 문제를 고쳤습니다. 실제 게이지 초기화 후에는 다음 주기 알림이 정상적으로 다시 울립니다.
 
 ### v0.4.64 (2026-10-14)
 - docs: QA 통과 후 릴리즈 명령 제공 및 v0.4.64 준비
