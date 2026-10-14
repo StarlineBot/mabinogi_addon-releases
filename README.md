@@ -31,6 +31,14 @@
 
 > 버전은 위 배지가 항상 최신으로 보여줍니다. 아래는 주요 변경 이력입니다.
 
+### v0.4.65 (2026-10-14)
+- docs(qa): verify tracker fixes and adopt risk-based beta release checks
+- 문제 수정 후 바로 푸시하고 후속 QA 뒤 릴리즈하도록 지침 명확화
+- 디버프 재검출 깜빡임과 투아림 동일 주기 반복 알림 수정
+- docs(qa): reproduce debuff recovery flicker and record ROI constraints
+- docs: share cooking and autofind planning specifications
+- docs(qa): reproduce Tuarim rearm from stale stable readings
+
 ### v0.4.64 (2026-10-14)
 - docs: QA 통과 후 릴리즈 명령 제공 및 v0.4.64 준비
 - docs: 콘솔 출력 독립 QA 완료 및 수동 빌드 동작
