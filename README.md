@@ -31,6 +31,15 @@
 
 > 버전은 위 배지가 항상 최신으로 보여줍니다. 아래는 주요 변경 이력입니다.
 
+### v0.4.69 (2026-10-15)
+- docs(qa): Windows 종료 수정 검증과 베타 릴리즈 승인 기록
+- docs(qa): 종료 후 캡처 재생성 수정과 트레이 추적 유지 검증
+- 완전 종료 후 상태 타이머의 캡처 재시작 방지
+- docs(qa): 첫 사용자 설정 검증과 종료 후 캡처 재생성 재현
+- docs: add staged automatic setup v2 plan
+- 사용 준비 기능 선택과 베타 안내 개선
+- docs: clarify first-use feature selection and beta guidance
+
 ### v0.4.68 (2026-10-15)
 - docs(qa): 안내 재보기 수정 검증 및 배포 노트 분리
 - 설정에서 사용 준비 안내 다시 보기 연결 수정
