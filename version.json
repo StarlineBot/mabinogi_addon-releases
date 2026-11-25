@@ -1,6 +1,6 @@
 {
-  "version": "0.56.0",
-  "url": "https://github.com/StarlineBot/mabinogi_addon-releases/releases/download/v0.56.0/mabinogi-addon.exe",
-  "sha256": "3459c1dfb48856866bb9fd49625b274af1f4687cce511cb8e5d881cda5149bf4",
-  "size": 190538476
+  "version": "0.56.1",
+  "url": "https://github.com/StarlineBot/mabinogi_addon-releases/releases/download/v0.56.1/mabinogi-addon.exe",
+  "sha256": "848a8165a29df91586b7dd71ddcd6a7e1f0ebdcf91341ef1216524dea612aedc",
+  "size": 190538108
 }
